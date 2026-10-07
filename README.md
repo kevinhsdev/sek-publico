@@ -1,12 +1,12 @@
 # SEK · Sistema da Secretaria Escolar
 
-![Capa do SEK](sek-vitrine/imagens/capa.jpg)
+![Capa do SEK](imagens/capa.jpg)
 
 **A secretaria escolar inteira. Em um só lugar.**
 
 O SEK é um sistema web que criei do zero, como jovem aprendiz, para a secretaria da escola onde trabalho. Ele junta num só lugar o que antes ficava espalhado em papel, planilhas e anotações, e **hoje já está em produção na instituição**.
 
-▶️ **[Veja a página do projeto, com o vídeo de demonstração](https://kevinhsdev.github.io/sek-publico/)**
+▶️ **[Veja a página do projeto, com o vídeo de demonstração](https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/)**
 
 ---
 
@@ -25,13 +25,13 @@ O SEK é um sistema web que criei do zero, como jovem aprendiz, para a secretari
 
 ## Telas
 
-![Início](sek-vitrine/imagens/01-inicio.jpg)
+![Início](imagens/01-inicio.jpg)
 
 | | |
 |---|---|
-| ![Ficha do aluno](sek-vitrine/imagens/03-ficha-do-aluno.jpg) | ![Rematrícula](sek-vitrine/imagens/04-rematricula.jpg) |
-| ![Contrato automático](sek-vitrine/imagens/06-contrato-automatico.jpg) | ![Portão](sek-vitrine/imagens/07-portao.jpg) |
-| ![Relatórios](sek-vitrine/imagens/09-relatorios.jpg) | ![Tema claro](sek-vitrine/imagens/11-tema-claro.jpg) |
+| ![Ficha do aluno](imagens/03-ficha-do-aluno.jpg) | ![Rematrícula](imagens/04-rematricula.jpg) |
+| ![Contrato automático](imagens/06-contrato-automatico.jpg) | ![Portão](imagens/07-portao.jpg) |
+| ![Relatórios](imagens/09-relatorios.jpg) | ![Tema claro](imagens/11-tema-claro.jpg) |
 
 ## Tecnologia
 
